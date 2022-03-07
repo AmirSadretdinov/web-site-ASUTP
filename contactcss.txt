@@ -1,0 +1,216 @@
+.glavblock {
+border: 3px solid red;
+width: 1900px;
+height: 1140px;
+}
+.verh {
+border: 3px solid blue;
+width: 1890px;
+height: 70px;
+
+margin-top: 10px;
+display: flex;
+flex-direction: row;
+}
+
+.logo {
+width: 60px;
+height: 60px;
+position: absolute;
+top: 30px;
+left: 350px;
+}
+
+.logotext {
+width: 60px;
+height: 60px;
+position: absolute;
+top: 30px;
+left: 410px;
+}
+
+.company {
+position: absolute;
+left: 800px;
+}
+.uslugi {
+position: absolute;
+left: 900px;
+}
+.product {
+position: absolute;
+left: 980px;
+}
+.contact {
+position: absolute;
+left: 1080px;
+}
+.nomer {
+position:absolute;
+left: 1300px;
+top: 20px;
+}
+
+.plavkartinka {
+width: 1900px;
+height: 198px;
+position: absolute;
+top: 120px;
+background-color: #316099;
+}
+
+.glavtext {
+text-align: left;
+margin-top: 80px;
+margin-left: 400px;
+}
+
+.asutp {
+position: absolute;
+top: 120px;
+left: 1000px;
+width:300px;
+height:200px;
+background-image: url(asutp2.png);
+background-repeat: no-repeat;
+}
+
+.container_contact {
+border:3px solid green;
+width: 1300px;
+height:615px;
+display: flex;
+position: absolute;
+left: 300px;
+top: 320px;
+}
+
+.contact_text {
+width: 740px;
+height:550px;
+position: absolute;
+left: 30px;
+top: 30px;
+line-height: 1.5;
+}
+
+.textbox {
+width: 600px;
+height:550px;
+position: absolute;
+left: 30px;
+top: 30px;
+}
+
+.box22 {
+position: absolute;
+left: 800px;
+top: 40px;
+width: 300px;
+height: 550px;
+box-shadow: 5px 10px 50px rgba(16, 112, 177, 0.2);
+display: flex;
+flex-direction: column;
+background-color: #316099;
+padding-top:20px;
+padding-left:20px;
+
+}
+.textbox {
+width: auto;
+height: auto;
+}
+
+.name {
+width: auto;
+height: auto;
+}
+
+.email {
+width: auto;
+height: auto;
+}
+
+.phone {
+width: auto;
+height: auto;
+}
+
+.message {
+width: auto;
+height: auto;
+}
+
+.knopka {
+position: absolute;
+top: 450px;
+width: 300px;
+height: 50px;
+left: 50px;
+}
+
+.test{
+    height:50px;
+    width:200px;
+background-color: white;
+}
+
+.container-niz {
+background-color:#316099;
+width: 1890px;
+height: 200px;
+position: absolute;
+top: 945px;
+}
+
+.niz {
+width: 1890px;
+height: 100px;
+margin-top: 10px;
+display: flex;
+flex-direction: row;
+position: absolute;
+top:40px;
+}
+
+.logo1 {
+width: 60px;
+height: 60px;
+position: absolute;
+top: 30px;
+left: 350px;
+}
+
+.logotext1 {
+width: 60px;
+height: 60px;
+position: absolute;
+top: 30px;
+left: 410px;
+}
+
+.company1 {
+position: absolute;
+left: 800px;
+top:20px;
+}
+.uslugi1 {
+position: absolute;
+left: 900px;
+top:20px;
+}
+.product1 {
+position: absolute;
+left: 980px;
+top:20px;
+}
+.contact1 {
+position: absolute;
+left: 1080px;
+top:20px;
+}
+.nomer1 {
+position:absolute;
+left: 1300px;
+top: 20px;
+}

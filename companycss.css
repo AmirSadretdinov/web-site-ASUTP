@@ -1,0 +1,177 @@
+.glavblock {
+  width: 1900px;
+  height: 1140px;
+}
+.verh {
+  width: 1890px;
+  height: 70px;
+
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 30px;
+  left: 350px;
+}
+
+.logotext {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 30px;
+  left: 410px;
+}
+
+.company {
+  position: absolute;
+  left: 600px;
+  margin-top: 24;
+}
+.uslugi {
+  position: absolute;
+  left: 780px;
+  margin-top: 24;
+}
+.product {
+  position: absolute;
+  left: 919px;
+  margin-top: 24;
+}
+.contact {
+  position: absolute;
+  left: 1080px;
+  margin-top: 24;
+}
+.nomer {
+  position: absolute;
+  left: 1300px;
+  top: 20px;
+}
+
+.plavkartinka {
+  width: 1900px;
+  height: 198px;
+  position: absolute;
+  top: 120px;
+  background-color: #316099;
+}
+
+.glavtext {
+  text-align: left;
+  margin-top: 80px;
+  margin-left: 400px;
+}
+
+.asutp {
+  position: absolute;
+  top: 120px;
+  left: 1000px;
+  width: 300px;
+  height: 200px;
+  background-image: url(asutp2.png);
+  background-repeat: no-repeat;
+}
+
+.container_company {
+  width: 1300px;
+  height: 615px;
+  display: flex;
+  position: absolute;
+  left: 300px;
+  top: 320px;
+}
+
+.textbox1 {
+  width: 740px;
+  height: 550px;
+  position: absolute;
+  left: 30px;
+  top: 60px;
+  line-height: 1.5;
+}
+.video {
+  position: absolute;
+
+  width: 800px;
+  height: 500px;
+  left: 800;
+  top: 20;
+}
+.vid1 {
+  position: absolute;
+  width: 700px;
+  height: 413px;
+  left: 30;
+  top: 70;
+}
+
+.scale {
+  transition: 1s; /* Время эффекта */
+}
+.scale:hover {
+  transform: scale(1.2); /* Увеличиваем масштаб */
+}
+.container-niz {
+  background-color: #316099;
+  width: 1890px;
+  height: 200px;
+  position: absolute;
+  top: 1200px;
+}
+
+.niz {
+  width: 1890px;
+  height: 100px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 40px;
+}
+
+.logo1 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 30px;
+  left: 350px;
+}
+
+.logotext1 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 30px;
+  left: 410px;
+}
+
+.company1 {
+  position: absolute;
+  left: 600px;
+  top: 34px;
+}
+.uslugi1 {
+  position: absolute;
+  left: 780px;
+  top: 34px;
+}
+.product1 {
+  position: absolute;
+  left: 919px;
+  top: 34px;
+}
+.contact1 {
+  position: absolute;
+  left: 1080px;
+  top: 34px;
+}
+.nomer1 {
+  position: absolute;
+  left: 1300px;
+  top: 20px;
+}

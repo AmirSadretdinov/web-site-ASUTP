@@ -1,0 +1,23 @@
+<html>
+    <head>
+    </head>
+    <body>
+    <div class="glavblock">
+	<div class="verh">
+     <div class="logo"> <img src="kal.png">  </div>
+     <div class="logotext">  <font color="#316099"> <h2>АСУТПиП</h2> </font> </div>
+     <div class="company"> <a href="#" style="color:black"> <h3>Компания</h3> </a> </div>
+     <div class="uslugi"> <a href="#" style="color:black"> <h3>Услуги</h3> </a> </div>
+     <div class="product"> <a href="#" style="color:black"> <h3>Продукт</h3> </a> </div>
+     <div class="contact"> <a href="#" style="color:black"> <h3>Контакты</h3> </a> </div>
+     <div class="nomer"> <h3> <font color="blue">+7 (800) 225-13-90 <br> <a href="#"> 	sadretdinov-amir@mail.ru </a>   </font> </h3> </div>
+  
+    	</div>
+
+	<div class="plavkartinka">
+	<div class="glavtext"><font color="white"> <p style="font-size: 50px;"> УСЛУГИ  </p></font>  </div>
+	
+	</div>
+    </div>
+    </body>
+</html>

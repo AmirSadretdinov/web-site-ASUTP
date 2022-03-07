@@ -1,0 +1,385 @@
+.glavblock {
+  width: 1900px;
+  height: 4170px;
+}
+.verh {
+  width: 1890px;
+  height: 70px;
+
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 30px;
+  left: 350px;
+}
+
+.logotext {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 30px;
+  left: 410px;
+}
+
+.company {
+  position: absolute;
+  left: 600px;
+  margin-top: 24;
+}
+.uslugi {
+  position: absolute;
+  left: 780px;
+  margin-top: 24;
+}
+.product {
+  position: absolute;
+  left: 919px;
+  margin-top: 24;
+}
+.contact {
+  position: absolute;
+  left: 1080px;
+  margin-top: 24;
+}
+.nomer {
+  position: absolute;
+  left: 1300px;
+  top: 20px;
+}
+
+.plavkartinka {
+  width: 1900px;
+  height: 400px;
+  position: absolute;
+  top: 120px;
+  background-color: #316099;
+}
+
+.glavtext {
+  text-align: left;
+  margin-top: 80px;
+  margin-left: 400px;
+}
+
+.asutp {
+  position: absolute;
+  top: 120px;
+  left: 1000px;
+  width: 600px;
+  height: 400px;
+  background-image: url(asutp1.png);
+  background-repeat: no-repeat;
+}
+
+.container {
+  width: 1300px;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  position: absolute;
+  left: 300px;
+  top: 540px;
+}
+.box1 {
+  box-shadow: 5px 10px 50px rgba(16, 112, 177, 0.2);
+  width: 400px;
+  height: 430px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.text1 {
+  text-align: center;
+  margin-right: 20px;
+  margin-top: 150px;
+}
+
+.text11 {
+  text-align: center;
+
+  line-height: 1.8;
+}
+
+.box2 {
+  box-shadow: 5px 10px 50px rgba(16, 112, 177, 0.2);
+  width: 400px;
+  height: 430px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.text2 {
+  text-align: center;
+  margin-right: 20px;
+  margin-top: 150px;
+}
+
+.text21 {
+  text-align: center;
+
+  line-height: 1.8;
+}
+.box3 {
+  box-shadow: 5px 10px 50px rgba(16, 112, 177, 0.2);
+  width: 400px;
+  height: 430px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.text3 {
+  text-align: center;
+  margin-right: 20px;
+  margin-top: 150px;
+}
+
+.text31 {
+  text-align: center;
+
+  line-height: 1.8;
+}
+
+.shema {
+  width: 1300px;
+  height: 1230px;
+  display: flex;
+  position: absolute;
+  left: 300px;
+  top: 1100px;
+}
+
+.blok1 {
+  position: absolute;
+  width: 500px;
+  height: 300px;
+  left: 100px;
+  top: 20px;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.line1 {
+  width: 3px;
+  height: 300px;
+  background-color: #e0e0e0;
+  position: absolute;
+  left: 550px;
+  top: 25px;
+}
+
+.tochka1 {
+  width: 20px;
+  height: 20px;
+  border-radius: 100px;
+  background: black;
+  position: absolute;
+  top: 20px;
+  left: 540px;
+}
+
+.blok2 {
+  position: absolute;
+  width: 500px;
+  height: 350px;
+  top: 320px;
+  left: 700px;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.line2 {
+  width: 3px;
+  height: 335px;
+  background-color: #e0e0e0;
+  position: absolute;
+  right: 547px;
+  top: 25px;
+}
+
+.tochka2 {
+  width: 20px;
+  height: 20px;
+  border-radius: 100px;
+  background: black;
+  position: absolute;
+  top: 20px;
+  right: 539px;
+}
+
+.blok3 {
+  position: absolute;
+  width: 500px;
+  height: 300px;
+  top: 660px;
+  left: 100px;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.line3 {
+  width: 3px;
+  height: 290px;
+  background-color: #e0e0e0;
+  position: absolute;
+  left: 550px;
+  top: 25px;
+}
+
+.tochka3 {
+  width: 20px;
+  height: 20px;
+  border-radius: 100px;
+  background: black;
+  position: absolute;
+  top: 20px;
+  left: 540px;
+}
+
+.blok4 {
+  position: absolute;
+  width: 500px;
+  height: 250px;
+  top: 950px;
+  left: 700px;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.tochka4 {
+  width: 20px;
+  height: 20px;
+  border-radius: 100px;
+  background: black;
+  position: absolute;
+  top: 20px;
+  right: 539px;
+}
+
+.kontent {
+  width: 1300px;
+  height: 1610px;
+  display: flex;
+  position: absolute;
+  left: 300px;
+  top: 2350px;
+}
+
+.kont1 {
+  width: 600px;
+  height: 400px;
+  position: absolute;
+  left: 600px;
+  top: 100px;
+}
+
+.txt1 {
+  width: 480px;
+  height: 550px;
+  position: absolute;
+  top: 20px;
+  left: 100px;
+  line-height: 1.5;
+  padding-left: 10px;
+}
+
+.kont2 {
+  width: 600px;
+  height: 400px;
+  position: absolute;
+  top: 610px;
+  left: 100px;
+}
+
+.txt2 {
+  width: 480px;
+  height: 555px;
+  position: absolute;
+  top: 530px;
+  left: 720px;
+  line-height: 1.5;
+  padding-left: 30px;
+}
+
+.kont3 {
+  width: 600px;
+  height: 400px;
+  position: absolute;
+  top: 1120px;
+  left: 600px;
+}
+
+.txt3 {
+  width: 450px;
+  height: 550px;
+  position: absolute;
+  top: 1050px;
+  left: 125px;
+  line-height: 1.5;
+  padding-left: 10px;
+}
+
+.container-niz {
+  background-color: #316099;
+  width: 1890px;
+  height: 200px;
+  position: absolute;
+  top: 3970px;
+}
+
+.niz {
+  width: 1890px;
+  height: 100px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 40px;
+}
+
+.logo1 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 30px;
+  left: 350px;
+}
+
+.logotext1 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 30px;
+  left: 410px;
+}
+
+.company1 {
+  position: absolute;
+  left: 600px;
+  top: 34px;
+}
+.uslugi1 {
+  position: absolute;
+  left: 780px;
+  top: 34px;
+}
+.product1 {
+  position: absolute;
+  left: 919px;
+  top: 34px;
+}
+.contact1 {
+  position: absolute;
+  left: 1080px;
+  top: 34px;
+}
+.nomer1 {
+  position: absolute;
+  left: 1300px;
+  top: 20px;
+}

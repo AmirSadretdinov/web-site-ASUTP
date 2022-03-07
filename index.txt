@@ -1,0 +1,38 @@
+﻿<html>
+
+    <head>
+        <link rel="stylesheet" type="text/css"
+          href="style.css"/>
+    </head>
+    <body>
+<div class="glavblock">
+    <div class="verh">
+     <div class="company"> <a href="#" style="color:black"> <h3>Компания</h3> </a> </div>
+     <div class="uslugi"> <a href="#" style="color:black"> <h3>Услуги</h3> </a> </div>
+     <div class="product"> <a href="#" style="color:black"> <h3>Продукт</h3> </a> </div>
+     <div class="contact"> <a href="#" style="color:black"> <h3>Контакты</h3> </a> </div>
+     <div class="nomer"> <h1> <font color="blue">+7 (800) 225-13-90 </font> </h1> </div>
+     <div class="knopka"> <button class="test" > <h4> <font color="white"> Написать нам </font> </h4> </button> </div>
+    </div>
+    <div class="plavkartinka"><img src="plavkartinka.jpg"></div>
+    <div class="container">
+        <div class="box1"></div>
+        <div class="box2"></div>
+        <div class="box3"></div>
+    </div>
+    <div class="menu"> 
+    <div class="text">
+    <p> 
+    <h2>Темы</h2> <br>
+    <a href="#" style="text-decoration: none;" > <h4> Спорт </h4>  </a> 
+    <a href="#" style="text-decoration: none;" > <h4> Автомобили </h4> </a> 
+    <a href="#" style="text-decoration: none;" > <h4> Технологии </h4> </a> 
+    <a href="#" style="text-decoration: none;" > <h4> Истории </h4>  </a> 
+    <a href="#" style="text-decoration: none;" > <h4> Наука </h4> </a> 
+    
+    
+    </div>
+    </div>
+</div>
+</body>
+</html>

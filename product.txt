@@ -1,0 +1,84 @@
+<html>
+    <head>
+	<link rel="stylesheet" type="text/css"
+          href="productcss.css"/>
+    </head>
+    <body>
+    <div class="glavblock">
+	<div class="verh">
+     <div class="logo"> <a href="index.html"> <img src="kal.png"> </a> </div>
+     <div class="logotext"> <a href="index.html"> <font color="#316099"><h2>АСУТПиП</h2> </font> </a> </div>
+     <div class="company"> <a href="company.html" style="color:black"> <h3>Компания</h3> </a> </div>
+      <div class="uslugi"> <a href="uslugi.html" style="color:black"> <h3>Услуги</h3> </a> </div>
+     <div class="product"> <a href="#" style="color:black"> <h3>Объекты</h3> </a> </div>
+     <div class="contact"> <a href="contact.html" style="color:black"> <h3>Контакты</h3> </a> </div>
+     <div class="nomer"> <h3> <font color="#1a68b5">+7 (800) 225-13-90 <br> <a href="mailto:sadretdinov-amir@mail.ru"> 	sadretdinov-amir@mail.ru </a>   </font> </h3> </div>
+  
+    	</div>
+
+	<div class="plavkartinka">
+	<div class="glavtext"><font color="white"> <p style="font-size: 50px;"> ОБЪЕКТЫ </p></font>  </div>
+	
+	</div>
+
+	 <div class="asutp">  </div>
+	<div class="container_product">
+		<div class="box1"><p style="font-size: 20px;">Радиотелемеханика (РТМ); </p></div>
+		<div class="box2"><p style="font-size: 20px;">Линейная телемеханика (ЛТМ);</p></div>
+		<div class="box3"><p style="font-size: 20px;">Система диспетчерского контроля и управления <br>
+		(СДКУ) - доработка;</p></div>
+		<div class="box4"><p style="font-size: 20px;">Микропроцессорная система автоматики (МПСА) <br>
+		нефтеперекачивающих станций (НПС) - доработка;</p>
+		</div>
+		<div class="box5"><p style="font-size: 20px;">МПСА подпорных насосных станций - доработка;</p></div>
+		<div class="box6"><p style="font-size: 20px;">МПСА резервуарных парков - доработка;</p></div>
+		<div class="box7"><p style="font-size: 20px;">Автоматизированная информационно-измерительная <br>
+		система коммерческого учета электроэнергии (АИИС КУЭ);</p></div>
+		<div class="box8"><p style="font-size: 20px;">Автоматизированная система технического учета <br>
+		электроэнергии (АСТУЭ) и Автоматизированная <br>
+		система диспетчерского управления (АСДУ);</p></div>
+		<div class="box9"><p style="font-size: 20px;">АСУ ТП Установки предварительного сброса воды (УПСВ);</p></div>
+		<div class="box10"><p style="font-size: 20px;">АСУ ТП Установки подготовки нефти (УПН);</p></div>
+		<div class="box11"><p style="font-size: 20px;">АСУ ТП Центрального пункта сбора (ЦПС);</p></div>
+		<div class="box12"><p style="font-size: 20px;">АСУ ТП Энергокомплекса;</p></div>
+		<div class="box13"><p style="font-size: 20px;">АСУТП Котельной;</p></div>
+		<div class="box14"><p style="font-size: 20px;">АСУТП Очистных сооружений;</p></div>
+		<div class="box15"><p style="font-size: 20px;"></p>Система автоматизация брагоректификационной <br>
+		установки;</div>
+		<div class="box16"><p style="font-size: 20px;">Локальная система автоматики (ЛСА) <br>
+		Канализационной насосной станции (КНС);</p></div>
+		<div class="box22">
+			<div class="textbox">
+				<h2><font color="white"> Обратная связь</font> </h2>
+
+				<font color="white">Имя</font>
+				<div class="name"><input type="text" placeholder="Введите ваше имя" style="width: 270px; height: 34px;"></div>
+				<br>
+				<font color="white">Адрес элеткронной почты</font>
+				<div class="email"><input class="inparea" type="email" placeholder="Введите ваш адрес элеткронной почты" style="width: 270px; height: 34px;"></div>
+				<br>
+				<font color="white">Телефон</font>
+				<div class="phone"><input class="inparea" type="email" placeholder="Введите ваш номер телефона" style="width: 270px; height: 34px;"></div>
+				<br>
+				<font color="white">Сообщение</font>
+				<div class="message"><input class="inparea" type="email" placeholder="Введите текст" style="width: 270px; height: 75px;"></div>
+				<br>
+				</div>
+				<div class="knopka"> <button class="test"; align="center"> <h4> Напишите нам </h4> </button> </div>
+			</div>
+		</div>
+	
+	<div class="container-niz">
+ 	 	<div class="niz">
+     			<div class="logo1"> <a href="index.html"> <img src="kal.png"> </a> </div>
+     			<div class="logotext1"> <a href="index.html" style="text-decoration:none"> <font color="white"><h2>АСУТПиП</h2> </font> </a> </div>
+     			<div class="company1"> <a href="company.html" style="color:white; text-decoration:none"> <h3>Компания</h3> </a> </div>
+      			<div class="uslugi1"> <a href="uslugi.html" style="color:white; text-decoration:none"> <h3>Услуги</h3> </a> </div>
+     			<div class="product1"> <a href="#" style="color:white; text-decoration:none"> <h3>Продукт</h3> </a> </div>
+     			<div class="contact1"> <a href="#" style="color:white; text-decoration:none"> <h3>Контакты</h3> </a> </div>
+     			<div class="nomer1"> <h3> <font color="white">+7 (800) 225-13-90 <br> <a href="mailto:sadretdinov-amir@mail.ru"> 	sadretdinov-amir@mail.ru </a>   </font> </h3> </div>
+    	    	 </div>
+	</div>
+    </div>
+    </body>
+</html>

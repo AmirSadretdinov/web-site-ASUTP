@@ -1,0 +1,326 @@
+.glavblock {
+  width: 1900px;
+  height: auto;
+}
+.verh {
+  width: 1890px;
+  height: 70px;
+
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 30px;
+  left: 350px;
+}
+
+.logotext {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 30px;
+  left: 410px;
+}
+
+.company {
+  position: absolute;
+  left: 600px;
+  margin-top: 24;
+}
+.uslugi {
+  position: absolute;
+  left: 780px;
+  margin-top: 24;
+}
+.product {
+  position: absolute;
+  left: 919px;
+  margin-top: 24;
+}
+.contact {
+  position: absolute;
+  left: 1080px;
+  margin-top: 24;
+}
+.nomer {
+  position: absolute;
+  left: 1300px;
+  top: 20px;
+}
+
+.plavkartinka {
+  width: 1900px;
+  height: 198px;
+  position: absolute;
+  top: 120px;
+  background-color: #316099;
+}
+
+.glavtext {
+  text-align: left;
+  margin-top: 80px;
+  margin-left: 400px;
+}
+
+.asutp {
+  position: absolute;
+  top: 120px;
+  left: 1000px;
+  width: 300px;
+  height: 200px;
+  background-image: url(asutp2.png);
+  background-repeat: no-repeat;
+}
+.scale {
+  transition: 1s; /* Время эффекта */
+}
+.scale:hover {
+  transform: scale(1.2); /* Увеличиваем масштаб */
+}
+
+.container_product {
+  width: 1300px;
+  height: 400px;
+  display: flex;
+  position: absolute;
+  left: 240px;
+  top: 520;
+}
+
+.box1 {
+  width: 540px;
+  height: max-content;
+  line-height: 1.5;
+  position: absolute;
+  top: 20px;
+  left: 200px;
+}
+
+.rtm-photo {
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 57px;
+  left: 550;
+}
+.ltm1 {
+  width: auto;
+  height: auto;
+  position: absolute;
+  left: 600;
+  top: 530;
+}
+.ltm2 {
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 150;
+  left: 90;
+}
+.p1 {
+  position: relative;
+  left: 600;
+}
+.aiss {
+  width: 540;
+  height: 420;
+}
+.aiss-photo {
+  width: auto;
+  height: auto;
+  position: absolute;
+  left: 540;
+  top: 315;
+}
+.aiss2 {
+  width: 540;
+  height: 400;
+  position: absolute;
+  left: 560;
+  top: 665px;
+}
+.aiss2-photo {
+  width: auto;
+  height: auto;
+  position: relative;
+  top: 55px;
+  bottom: 40;
+}
+.upn-photo {
+  width: auto;
+  height: auto;
+  position: relative;
+  left: 560px;
+  bottom: 260;
+}
+.txt {
+  width: auto;
+  height: auto;
+  position: relative;
+  left: 417px;
+  bottom: 225px;
+}
+.upn-photo2 {
+  width: auto;
+  height: auto;
+  position: relative;
+  bottom: 204px;
+}
+
+.text-cps {
+  width: auto;
+  height: auto;
+  position: relative;
+  text-align: center;
+  left: 280px;
+}
+.text-cps1 {
+  width: auto;
+  height: auto;
+  position: relative;
+
+  bottom: 265px;
+  left: 548px;
+}
+.text-energo {
+  width: auto;
+  height: auto;
+  position: relative;
+  text-align: center;
+  left: 280px;
+}
+
+.text-energo1 {
+  width: auto;
+  height: auto;
+  position: relative;
+  top: 50;
+  left: 50;
+}
+
+.text-energo2 {
+  width: auto;
+  height: auto;
+  position: relative;
+  left: 544px;
+  bottom: 95px;
+}
+
+.container-niz {
+  background-color: #316099;
+  width: 1904px;
+  height: 200px;
+  position: relative;
+  top: 100;
+  right: 436px;
+  margin-top: 1px;
+}
+
+.niz {
+  width: 1890px;
+  height: 100px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 40px;
+}
+
+.logo1 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 30px;
+  left: 350px;
+}
+
+.logotext1 {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 30px;
+  left: 410px;
+}
+
+.company1 {
+  position: absolute;
+  left: 600px;
+  top: 34px;
+}
+.uslugi1 {
+  position: absolute;
+  left: 780px;
+  top: 34px;
+}
+.product1 {
+  position: absolute;
+  left: 919px;
+  top: 34px;
+}
+.contact1 {
+  position: absolute;
+  left: 1080px;
+  top: 34px;
+}
+.nomer1 {
+  position: absolute;
+  left: 1300px;
+  top: 20px;
+}
+.box22 {
+  position: fixed;
+    left: 72px;
+    top:  394px;
+  width: 300px;
+  height: 550px;
+  box-shadow: 5px 10px 50px rgba(16, 112, 177, 0.2);
+  display: flex;
+  flex-direction: column;
+  background-color: #316099;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.textbox {
+  width: auto;
+  height: auto;
+}
+
+.name {
+  width: auto;
+  height: auto;
+}
+
+.email {
+  width: auto;
+  height: auto;
+}
+
+.phone {
+  width: auto;
+  height: auto;
+}
+
+.message {
+  width: auto;
+  height: auto;
+}
+
+.knopka {
+  position: absolute;
+  top: 450px;
+  width: 300px;
+  height: 50px;
+  left: 50px;
+}
+
+.test {
+  height: 50px;
+  width: 200px;
+  background-color: white;
+}
